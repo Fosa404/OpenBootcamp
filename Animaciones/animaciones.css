@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-modern {
+    border: none;
+    border-radius: 5px;
+    background-color: #fe3e3e;
+    padding: 5px 10px;
+    border-bottom: 2px solid #c20f0f;
+    border-right: 2px solid #c20f0f;
+    transition: 0.4s linear;
+    color: black;
+}
+
+.btn-modern:hover {
+    transform: translateY(-5px);
+    box-shadow: 2px 2px 3px #222;
+    background-color: #4545fd;
+    border-bottom: 2px solid #2929dd;
+    border-right: 2px solid #2929dd;
+    color: #ddd;
+}
+
