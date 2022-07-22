@@ -1,0 +1,18 @@
+.col-sm {
+    background-color: red;
+    margin: 0.25rem;
+}
+.col-md {
+    background-color: blue;
+    margin: 0.25rem;
+}
+
+.col-lg {
+    background-color: green;
+    margin: 0.25rem;
+}
+
+.col-xl {
+    background-color: yellow;
+    margin: 0.25rem;
+}
