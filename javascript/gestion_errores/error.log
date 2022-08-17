@@ -1,0 +1,5 @@
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"El valor ingresado no es un numero","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"Error: El valor ingresado no es un numero","service":"user-service"}

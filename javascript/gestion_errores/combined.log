@@ -1,0 +1,15 @@
+{"level":"info","message":8,"service":"user-service"}
+{"level":"info","message":"Esta ejecutandose de manera correcta","service":"user-service"}
+{"level":"info","message":"Esta ejecutandose de manera correcta","service":"user-service"}
+{"level":"info","message":7,"service":"user-service"}
+{"level":"info","message":"Esta ejecutandose de manera correcta","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"info","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"El valor ingresado no es un numero","service":"user-service"}
+{"level":"info","message":12,"service":"user-service"}
+{"level":"info","message":"Esta ejecutandose de manera correcta","service":"user-service"}
+{"level":"info","message":12,"service":"user-service"}
+{"level":"info","message":"Esta ejecutandose de manera correcta","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"Error: El valor ingresado no es un numero","service":"user-service"}
