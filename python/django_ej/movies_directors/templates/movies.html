@@ -1,0 +1,13 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+
+{% for movie in movies %}
+
+<h3>Director: {{movie.director}}</h3>
+<h4>Pelicula: {{movie.title}}</h4>
+<p>{{movie.description}}</p>
+
+
+{% endfor %}
+{% endblock %}
